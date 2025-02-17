@@ -142,4 +142,4 @@ terraform destroy -auto-approve
 
 ---
 
-![terrafromwork flow](diagram-export-17-02-2025-02_23_54.png)
+![Terrafrom wrok flow](Images/diagram-export-17-02-2025-02_23_54.png)

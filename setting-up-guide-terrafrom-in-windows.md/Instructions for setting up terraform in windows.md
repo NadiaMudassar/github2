@@ -146,4 +146,4 @@ If the Terraform version appears, your setup is complete! 🎉
 
 ---
 
-![Flow chart](diagram-export-17-02-2025-00_11_21.png)
+![Flow chart](Images/diagram-export-17-02-2025-00_11_21.png)
